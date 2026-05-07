@@ -4,6 +4,7 @@ import Box from "@mui/material/Box";
 
 function Expenses() {
   const { totalExpenses } = useExpenseStore();
+
   return (
     <Box id="expenses">
       <h2>Total Expenses</h2>
