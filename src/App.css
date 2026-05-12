@@ -82,7 +82,8 @@ h3 {
   cursor: pointer;
 }
 
-#expense_modal {
+#expense_modal,
+#income_modal {
   display: flex;
   flex-direction: column;
   align-items: center;
